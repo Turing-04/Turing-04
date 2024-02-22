@@ -6,8 +6,14 @@
 "I'm a cybersecurity Msc student at ETHZ and EPFL.
 I like playing around with stuff, learning new stuff but what I enjoy the most is breaking stuff.
 I easily get inspired by things. Sometimes I waste a lot of time but often I make some fun discoveries.
-Some of my favorite interests include networking, reverse engineering, web exploitation and forensics. I also have some experience with RF and hardware security (NFC, WIFI, GPS, etc. using the HackRF One, Flipper Zero, Arduinos, Raspberry PIs, ESP32 and more).
-I also enjoy taking part in CTFs (Capture The Flag), I've competed on my own as "Turing-04" and now "Enigmatix" but also with swiss teams Polygl0ts and Flagbot. I still have a lot to learn however and it's always fun to take part in new competitions to learn new things."
+
+Some of my favorite interests include networking, reverse engineering, web exploitation and forensics.
+I also have some experience with RF and hardware security (NFC, WIFI, GPS, etc. using the HackRF One,
+Flipper Zero, Arduinos, Raspberry PIs, ESP32, NRF24 and more).
+
+I also enjoy taking part in CTFs (Capture The Flag), I've competed on my own as 'Turing-04' and now 'Enigmatix'
+but also with swiss teams Polygl0ts and Flagbot. I still have a lot to learn however and it's always fun to take
+part in new competitions to learn new things."
 ```
 
 <!--

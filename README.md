@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 You can find a quick and fun online portoflio I did [here](enigmatix.xyz).
+👨‍💻 You can find a quick and fun online portoflio I did [here](https://enigmatix.xyz).
 
 

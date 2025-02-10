@@ -3,7 +3,7 @@
 ```zsh
 [turing-04@TuringMachine]$ whoami
 
-"I'm a cybersecurity Msc student at ETHZ and EPFL.
+I'm a cybersecurity Msc student at ETHZ and EPFL.
 I like playing around with stuff, learning new stuff but what I enjoy the most is breaking stuff.
 I easily get inspired by things. Sometimes I waste a lot of time but often I make some fun discoveries.
 
@@ -13,7 +13,7 @@ Flipper Zero, Arduinos, Raspberry PIs, ESP32, NRF24 and more).
 
 I also enjoy taking part in CTFs (Capture The Flag), I've competed on my own as 'Turing-04' and now 'Enigmatix'
 but also with swiss teams Polygl0ts and Flagbot. I still have a lot to learn however and it's always fun to take
-part in new competitions to learn new things."
+part in new competitions to learn new things.
 ```
 
 <!--
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 You can find a quick and fun online portoflio I did [here](https://enigmatix.xyz).
+👨‍💻 You can find a quick and fun online portfolio I did [here](https://enigmatix.xyz).
 
 

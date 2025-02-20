@@ -3,8 +3,8 @@
 ```zsh
 [turing-04@TuringMachine]$ whoami
 
-I'm a cybersecurity Msc student at ETHZ and EPFL.
-I like playing around with stuff, learning new stuff but what I enjoy the most is breaking stuff.
+I'm a cybersecurity Msc graduate from ETHZ and EPFL, currently working at CERN. 
+I like playing around with stuff, learning new stuff but what I enjoy the most is cracking stuff.
 I easily get inspired by things. Sometimes I waste a lot of time but often I make some fun discoveries.
 
 Some of my favorite interests include networking, reverse engineering, web exploitation and forensics.
